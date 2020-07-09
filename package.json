@@ -1,0 +1,9 @@
+{
+  "name": "destructured",
+  "version": "1.0.0",
+  "description": "Destructured Finance",
+  "main": "run.js",
+  "repository": "https://github.com/PatrickDehkordi/destructured.git",
+  "author": "Patrick Dehkordi",
+  "license": "MIT"
+}
